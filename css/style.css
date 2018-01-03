@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+p {
+ font-family: 'Quicksand', sans-serif;
+}
+h1{
+  font-family: 'Indie Flower', cursive;
+}
